@@ -1,0 +1,1 @@
+api_mp.py                   26 INFO     正在调用自媒体登录接口，url:http://ttapi.research.itcast.cn/mp/v1_0/authorizations, mobile:13012345678, code:246810

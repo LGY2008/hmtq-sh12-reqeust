@@ -1,0 +1,48 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1575364747988" stop="1575364748884">
+  <name>test02_mis</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1575364747988" status="passed" stop="1575364748206">
+      <name>TestMis.test01_mis_login[testid-testpwd123]</name>
+      <attachments>
+        <attachment source="5ab35fcd-12dc-4355-abfe-de750b8b6c76-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="276-MainThread"/>
+        <label name="host" value="MS-20180906QJYH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1575364748211" status="passed" stop="1575364748750">
+      <name>TestMis.test02_mis_search</name>
+      <attachments>
+        <attachment source="2b8ec731-897d-4cb6-94c2-3d2cb90005ca-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="276-MainThread"/>
+        <label name="host" value="MS-20180906QJYH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1575364748753" status="passed" stop="1575364748884">
+      <name>TestMis.test03_mis_audit</name>
+      <attachments>
+        <attachment source="104c8256-ce12-4b72-ac64-70ed71d11198-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="276-MainThread"/>
+        <label name="host" value="MS-20180906QJYH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

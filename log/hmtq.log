@@ -1,0 +1,23 @@
+2019-12-03 15:52:45,409 INFO [root] [api_mis.py (api_mis_login:29] - 正在执行 后台管理登录接口，登录的数据 账号：testid, 密码：testpwd123
+2019-12-03 15:52:45,610 INFO [root] [api_mis.py (api_search_article:40] - 正在执行 后台管理查询文章接口，查询文章数据 title：None, channel：数据库
+2019-12-03 15:52:46,186 INFO [root] [api_mis.py (api_audit:51] - 正在调用审核文章接口，审核的文章id为：None ，状态为：2
+2019-12-03 16:13:25,926 INFO [root] [api_mis.py (api_mis_login:29] - 正在执行 后台管理登录接口，登录的数据 账号：testid, 密码：testpwd123
+2019-12-03 16:13:26,179 INFO [root] [api_mis.py (api_search_article:40] - 正在执行 后台管理查询文章接口，查询文章数据 title：None, channel：数据库
+2019-12-03 16:13:26,619 INFO [root] [api_mis.py (api_audit:51] - 正在调用审核文章接口，审核的文章id为：None ，状态为：2
+2019-12-03 17:14:10,799 ERROR [root] [tool.py (assert_code_message:16] - 400 != 201
+2019-12-03 17:16:15,188 INFO [root] [api_mp.py (api_mp_login:26] - 正在调用自媒体登录接口，url:http://ttapi.research.itcast.cn/mp/v1_0/authorizations, mobile:13012345678, code:246810
+2019-12-03 17:16:15,290 INFO [root] [api_mp.py (api_mp_article:44] - 正在调用自媒体发布文章接口，url:http://ttapi.research.itcast.cn/mp/v1_0/articles, title:sh12006, conent:今天真暖和！, channel_id:7 ,headers:{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NzUzNzE3NDMsInVzZXJfaWQiOjExNDk4NjQ2OTA4MjY4NzA3ODQsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.zJUy3ayD4L0uteZFJXHVQZJU14QNqKdE5z8H-lyx9Is'}
+2019-12-03 17:16:15,387 INFO [root] [api_mis.py (api_mis_login:29] - 正在执行 后台管理登录接口，登录的数据 账号：testid, 密码：testpwd123
+2019-12-03 17:16:15,598 INFO [root] [api_mis.py (api_search_article:40] - 正在执行 后台管理查询文章接口，查询文章数据 title：sh12006, channel：数据库
+2019-12-03 17:16:16,071 INFO [root] [api_mis.py (api_audit:51] - 正在调用审核文章接口，审核的文章id为：1201792119195303936 ，状态为：2
+2019-12-03 17:16:16,993 ERROR [root] [tool.py (assert_code_message:16] - 200 != 201
+2019-12-03 17:16:41,017 INFO [root] [api_mp.py (api_mp_login:26] - 正在调用自媒体登录接口，url:http://ttapi.research.itcast.cn/mp/v1_0/authorizations, mobile:13012345678, code:246810
+2019-12-03 17:16:41,118 INFO [root] [api_mp.py (api_mp_article:44] - 正在调用自媒体发布文章接口，url:http://ttapi.research.itcast.cn/mp/v1_0/articles, title:sh12006, conent:今天真暖和！, channel_id:7 ,headers:{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NzUzNzE3NjksInVzZXJfaWQiOjExNDk4NjQ2OTA4MjY4NzA3ODQsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.HWRXoCUO-svK0P83QUeKMXDu5Wfdjqks7Wxyo1sMeQ8'}
+2019-12-03 17:16:41,214 INFO [root] [api_mis.py (api_mis_login:29] - 正在执行 后台管理登录接口，登录的数据 账号：testid, 密码：testpwd123
+2019-12-03 17:16:41,478 INFO [root] [api_mis.py (api_search_article:40] - 正在执行 后台管理查询文章接口，查询文章数据 title：sh12006, channel：数据库
+2019-12-03 17:16:41,972 INFO [root] [api_mis.py (api_audit:51] - 正在调用审核文章接口，审核的文章id为：1201792227525787648 ，状态为：2
+2019-12-03 17:19:07,795 INFO [root] [api_mp.py (api_mp_login:26] - 正在调用自媒体登录接口，url:http://ttapi.research.itcast.cn/mp/v1_0/authorizations, mobile:13012345678, code:246810
+2019-12-03 17:19:07,899 INFO [root] [api_mp.py (api_mp_article:44] - 正在调用自媒体发布文章接口，url:http://ttapi.research.itcast.cn/mp/v1_0/articles, title:sh12006, conent:今天真暖和！, channel_id:7 ,headers:{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NzUzNzE5MTYsInVzZXJfaWQiOjExNDk4NjQ2OTA4MjY4NzA3ODQsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.ZRZEgE2ZZ86IYhOZUWyY66oQ8XJn-Gq1JTWwDxL9TTc'}
+2019-12-03 17:19:07,989 INFO [root] [api_mis.py (api_mis_login:29] - 正在执行 后台管理登录接口，登录的数据 账号：testid, 密码：testpwd123
+2019-12-03 17:19:08,211 INFO [root] [api_mis.py (api_search_article:40] - 正在执行 后台管理查询文章接口，查询文章数据 title：sh12006, channel：数据库
+2019-12-03 17:19:08,754 INFO [root] [api_mis.py (api_audit:51] - 正在调用审核文章接口，审核的文章id为：1201792843178311680 ，状态为：2
